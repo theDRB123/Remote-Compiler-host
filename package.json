@@ -1,0 +1,11 @@
+{
+  "name": "remote-compiler-host",
+  "version": "1.0.0",
+  "description": "this is the host for the remote-compiler system for github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "theDRB",
+  "license": "ISC"
+}
